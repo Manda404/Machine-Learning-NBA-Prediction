@@ -1,0 +1,6 @@
+__pycache__/
+*.csv
+*.pkl
+.env
+venv
+/dev/catboost_info
